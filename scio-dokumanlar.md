@@ -5,6 +5,8 @@
 #### - colorama,time
 ### / Kullanılan kaynaklar
 #### - Python,stackoverflow
+#### Sorular : https://www.fenbilim.net/2018/02/6-sinif-madde-ve-isi-test-sorular-ve-cevaplar.html
+#### Sorular : Google görseller
 
 -----------------------------------------------------------------------------------------------------------------
 ## GELİŞTİRME TARİHLERİ (DEVELOPING-LOG)
